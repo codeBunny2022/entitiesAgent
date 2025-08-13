@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Local data / models
+*.gguf
+huggingface/
+
+# Outputs
+output/
+
+# OS / Editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
