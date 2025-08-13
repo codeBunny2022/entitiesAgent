@@ -10,7 +10,7 @@ __pycache__/
 huggingface/
 
 # Outputs
-output/
+# output/
 
 # OS / Editor
 .DS_Store
